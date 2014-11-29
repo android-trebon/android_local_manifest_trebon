@@ -3,6 +3,5 @@
     <!-- Local projects -->
     <project path="hardware/qcom/display-legacy" name="xenLiam/android_hardware_qcom_display-legacy" revision="jellybean-mr2" />
     <project path="hardware/qcom/media-legacy" name="xenLiam/android_hardware_qcom_media-legacy" revision="jellybean-mr2" />
-    <!-- WLAN (temporary) -->
-    <project path="hardware/atheros/wlan" name="CyanogenMod/android_hardware_atheros_wlan" revision="cm-11.0" />
+    <project path="hardware/atheros/wlan" name="xenLiam/android_hardware_atheros_wlan" revision="cm-11.0" />
 </manifest>
