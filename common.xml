@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <!-- CM replacements -->
-    <remove-project name="CyanogenMod/android_frameworks_native" />
-    <remove-project name="CyanogenMod/android_frameworks_av" />
+	<!-- CM replacements -->
+    	<remove-project name="CyanogenMod/android_frameworks_native" />
+	<remove-project name="CyanogenMod/android_frameworks_av" />
 	<remove-project name="CyanogenMod/android_frameworks_base" />
-    <remove-project name="CyanogenMod/android_system_core" />
-    <remove-project name="CyanogenMod/android_bootable_recovery" />
-    <remove-project name="CyanogenMod/android_hardware_libhardware" />
+	<remove-project name="CyanogenMod/android_system_core" />
+    	<remove-project name="CyanogenMod/android_bootable_recovery" />
+    	<remove-project name="CyanogenMod/android_hardware_libhardware" />
 
 
 	<project path="frameworks/base" name="xenLiam/android_frameworks_base" revision="cm-11.0" />
-    <project path="frameworks/native" name="xenLiam/android_frameworks_native" revision="cm-11.0" />
-    <project path="frameworks/av" name="xenLiam/android_frameworks_av" revision="cm-11.0" />
-    <project path="system/core" name="xenLiam/android_system_core" revision="cm-11.0" />
-    <project path="bootable/recovery" name="xenLiam/android_bootable_recovery" revision="cm-11.0" />
-    <project path="hardware/atheros/wlan" name="xenLiam/android_hardware_atheros_wlan" revision="cm-11.0" />
-    <project path="hardware/qcom/media-legacy" name="xenLiam/android_hardware_qcom_media-legacy" revision="cm-11.0" />
-    <project path="hardware/qcom/display-legacy" name="xenLiam/android_hardware_qcom_display-legacy" revision="cm-11.0" />
-    <project path="hardware/libhardware" name="xenLiam/android_hardware_libhardware" revision="cm-11.0" />
+	<project path="frameworks/native" name="xenLiam/android_frameworks_native" revision="cm-11.0" />
+	<project path="frameworks/av" name="xenLiam/android_frameworks_av" revision="cm-11.0" />
+	<project path="system/core" name="xenLiam/android_system_core" revision="cm-11.0" />
+	<project path="bootable/recovery" name="xenLiam/android_bootable_recovery" revision="cm-11.0" />
+	<project path="hardware/atheros/wlan" name="xenLiam/android_hardware_atheros_wlan" revision="cm-11.0" />
+	<project path="hardware/qcom/media-legacy" name="xenLiam/android_hardware_qcom_media-legacy" revision="cm-11.0" />
+	<project path="hardware/qcom/display-legacy" name="xenLiam/android_hardware_qcom_display-legacy" revision="cm-11.0" />
+	<project path="hardware/libhardware" name="xenLiam/android_hardware_libhardware" revision="cm-11.0" />
+	<project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" revision="cm-11.0" />
 </manifest>
