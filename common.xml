@@ -19,4 +19,7 @@
 	<project path="hardware/qcom/display-legacy" name="xenLiam/android_hardware_qcom_display-legacy" revision="cm-11.0" />
 	<project path="hardware/libhardware" name="xenLiam/android_hardware_libhardware" revision="cm-11.0" />
 	<project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" revision="cm-11.0" />
+	
+	<!-- Legacy webkit -->
+	<project path="external/webkit" name="legaCyMod/android_external_webkit" revision="cm-11.0" />
 </manifest>
