@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>   
-    <project path="device/samsung/msm7x27a-common" name="cmtrebon/android_device_samsung_msm7x27a-common" revision="cm-11.0" />
-    <project path="device/samsung/trebon" name="cmtrebon/android_device_samsung_s7500" revision="cm-11.0" />
+    <project path="device/samsung/trebon" name="cmtrebon/android_device_samsung_trebon" revision="cm-11.0" />
     <project path="vendor/samsung" name="cmtrebon/proprietary_vendor_samsung_msm7x27a" revision="cm-11.0" />
     <project path="kernel/samsung/msm7x27a" name="cmtrebon/android_kernel_samsung_msm7x27a" revision="3.0.101" />
 </manifest>
